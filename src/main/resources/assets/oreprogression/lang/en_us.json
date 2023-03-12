@@ -1,0 +1,49 @@
+{
+
+  "item.oreprogression.tin_ingot": "Tin Ingot",
+
+  "block.oreprogression.tin_ore": "Tin Ore",
+  "block.oreprogression.deepslate_tin_ore": "Deepslate Tin Ore",
+  "block.oreprogression.tin_bricks": "Tin Bricks",
+
+  "block.oreprogression.quality_copper_ore": "Quality Copper Ore",
+  "block.oreprogression.quality_deepslate_copper_ore": "Quality Deepslate Copper Ore",
+  "block.oreprogression.quality_copper_bricks": "Quality Copper Bricks",
+
+  "block.oreprogression.lead_ore": "Lead Ore",
+  "block.oreprogression.deepslate_lead_ore": "Deepslate Lead Ore",
+  "block.oreprogression.lead_bricks": "Lead Bricks",
+
+  "block.oreprogression.quality_iron_ore": "Quality Iron Ore",
+  "block.oreprogression.quality_deepslate_iron_ore": "Quality Deepslate Iron Ore",
+  "block.oreprogression.quality_iron_bricks": "Quality Iron Bricks",
+
+  "block.oreprogression.silver_ore": "Silver Ore",
+  "block.oreprogression.deepslate_silver_ore": "Deepslate Silver Ore",
+  "block.oreprogression.silver_bricks": "Silver Bricks",
+
+  "block.oreprogression.tungsten_ore": "Tungsten Ore",
+  "block.oreprogression.deepslate_tungsten_ore": "Deepslate Tungsten Ore",
+  "block.oreprogression.tungsten_bricks": "Tungsten Bricks",
+
+  "block.oreprogression.platinum_ore": "Platinum Ore",
+  "block.oreprogression.deepslate_platinum_ore": "Deepslate Platinum Ore",
+  "block.oreprogression.platinum_bricks": "Platinum Bricks",
+
+  "block.oreprogression.quality_gold_ore": "Quality Gold Ore",
+  "block.oreprogression.quality_deepslate_gold_ore": "Quality Deepslate Gold Ore",
+  "block.oreprogression.quality_gold_bricks": "Quality Gold Bricks",
+
+  "block.oreprogression.crimtane_ore": "Crimtane Ore",
+  "block.oreprogression.deepslate_crimtane_ore": "Deepslate Crimtane Ore",
+  "block.oreprogression.crimtane_bricks": "Crimtane Bricks",
+
+  "block.oreprogression.demonite_ore": "Demonite Ore",
+  "block.oreprogression.deepslate_demonite_ore": "Deepslate Demonite Ore",
+  "block.oreprogression.demonite_bricks": "Demonite Bricks",
+
+  "block.oreprogression.netherrack_hellstone_ore": "Hellstone",
+  "block.oreprogression.hellstone_bricks": "Hellstone Bricks",
+
+  "itemGroup.oreprogressiontab": "Ore Progression"
+}

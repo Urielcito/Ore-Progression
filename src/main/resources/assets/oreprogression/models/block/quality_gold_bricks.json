@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "oreprogression:block/quality_gold_bricks"
+  }
+}
