@@ -1,0 +1,58 @@
+{
+  "item.tutorialmod.zircon": "Zircon",
+  "item.tutorialmod.raw_zircon": "Raw Zircon",
+
+  "item.tutorialmod.tin_ingot": "Tin Ingot",
+
+  "block.tutorialmod.zircon_block": "Block of Zircon",
+  "block.tutorialmod.zircon_ore": "Zircon Ore",
+  "block.tutorialmod.deepslate_zircon_ore": "Deepslate Zircon Ore",
+  "block.tutorialmod.endstone_zircon_ore": "Endstone Zircon Ore",
+  "block.tutorialmod.netherrack_zircon_ore": "Netherrack Zircon Ore",
+
+  "block.tutorialmod.tin_ore": "Tin Ore",
+  "block.tutorialmod.deepslate_tin_ore": "Deepslate Tin Ore",
+  "block.tutorialmod.tin_bricks": "Tin Bricks",
+
+  "block.tutorialmod.quality_copper_ore": "Quality Copper Ore",
+  "block.tutorialmod.quality_deepslate_copper_ore": "Quality Deepslate Copper Ore",
+  "block.tutorialmod.quality_copper_bricks": "Quality Copper Bricks",
+
+  "block.tutorialmod.lead_ore": "Lead Ore",
+  "block.tutorialmod.deepslate_lead_ore": "Deepslate Lead Ore",
+  "block.tutorialmod.lead_bricks": "Lead Bricks",
+
+  "block.tutorialmod.quality_iron_ore": "Quality Iron Ore",
+  "block.tutorialmod.quality_deepslate_iron_ore": "Quality Deepslate Iron Ore",
+  "block.tutorialmod.quality_iron_bricks": "Quality Iron Bricks",
+
+  "block.tutorialmod.silver_ore": "Silver Ore",
+  "block.tutorialmod.deepslate_silver_ore": "Deepslate Silver Ore",
+  "block.tutorialmod.silver_bricks": "Silver Bricks",
+
+  "block.tutorialmod.tungsten_ore": "Tungsten Ore",
+  "block.tutorialmod.deepslate_tungsten_ore": "Deepslate Tungsten Ore",
+  "block.tutorialmod.tungsten_bricks": "Tungsten Bricks",
+
+  "block.tutorialmod.platinum_ore": "Platinum Ore",
+  "block.tutorialmod.deepslate_platinum_ore": "Deepslate Platinum Ore",
+  "block.tutorialmod.platinum_bricks": "Platinum Bricks",
+
+  "block.tutorialmod.quality_gold_ore": "Quality Gold Ore",
+  "block.tutorialmod.quality_deepslate_gold_ore": "Quality Deepslate Gold Ore",
+  "block.tutorialmod.quality_gold_bricks": "Quality Gold Bricks",
+
+  "block.tutorialmod.crimtane_ore": "Crimtane Ore",
+  "block.tutorialmod.deepslate_crimtane_ore": "Deepslate Crimtane Ore",
+  "block.tutorialmod.crimtane_bricks": "Crimtane Bricks",
+
+  "block.tutorialmod.demonite_ore": "Demonite Ore",
+  "block.tutorialmod.deepslate_demonite_ore": "Deepslate Demonite Ore",
+  "block.tutorialmod.demonite_bricks": "Demonite Bricks",
+
+  "block.tutorialmod.netherrack_hellstone_ore": "Hellstone",
+  "block.tutorialmod.hellstone_bricks": "Hellstone Bricks",
+
+  "itemGroup.tutorialmodtab": "Zircon Tutorial Tab",
+  "itemGroup.oreprogressiontab": "Ore Progression"
+}
