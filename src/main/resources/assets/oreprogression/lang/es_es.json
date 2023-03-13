@@ -11,6 +11,17 @@
   "item.oreprogression.crimtane_ingot": "Lingote carmesí",
   "item.oreprogression.demonite_ingot": "Lingote endemoniado",
   "item.oreprogression.hellstone_ingot": "Lingote de piedra Infernal",
+  "item.oreprogression.raw_tin": "Mineral de estaño",
+  "item.oreprogression.raw_quality_copper": "Mineral de cobre de calidad",
+  "item.oreprogression.raw_plomo": "Mineral de plomo",
+  "item.oreprogression.raw_quality_iron": "Mineral de hierro de calidad",
+  "item.oreprogression.raw_silver": "Mineral de plata",
+  "item.oreprogression.raw_tungsten": "Mineral de tungsteno",
+  "item.oreprogression.raw_platinum": "Mineral de platino",
+  "item.oreprogression.raw_quality_gold": "Mineral de oro de calidad",
+  "item.oreprogression.raw_crimtane": "Mineral carmesí",
+  "item.oreprogression.raw_demonite": "Mineral endemoniado",
+  "item.oreprogression.raw_hellstone": "Piedra infernal",
 
   "block.oreprogression.tin_ore": "Mena de estaño",
   "block.oreprogression.deepslate_tin_ore": "Mena de estaño de pizarra profunda",
@@ -55,6 +66,13 @@
   "block.oreprogression.netherrack_hellstone_ore": "Mena de piedra infernal",
   "block.oreprogression.hellstone_bricks": "Ladrillos infernales",
 
-  "itemGroup.oreprogressiontab": "Ore Progression"
+  "itemGroup.oreprogressiontab_raw": "Ore Progression Minerales",
+  "itemGroup.oreprogressiontab_ores": "Ore Progression Menas",
+  "itemGroup.oreprogressiontab_ingots": "Ore Progression Lingotes",
+  "itemGroup.oreprogressiontab_blocks": "Ore Progression Bloques",
+  "itemGroup.oreprogressiontab_bricks": "Ore Progression Ladrillos",
+  "itemGroup.oreprogressiontab_weapons": "Ore Progression Armas",
+  "itemGroup.oreprogressiontab_tools": "Ore Progression Herramientas",
+  "itemGroup.oreprogressiontab_armor": "Ore Progression Armadura"
 
 }
