@@ -1,0 +1,60 @@
+{
+
+  "item.oreprogression.tin_ingot": "Lingote de estaño",
+  "item.oreprogression.quality_copper_ingot": "Lingote de cobre de calidad",
+  "item.oreprogression.lead_ingot": "Lingote de plomo",
+  "item.oreprogression.quality_iron_ingot": "Lingote de hierro de calidad",
+  "item.oreprogression.silver_ingot": "Lingote de plata",
+  "item.oreprogression.tungsten_ingot": "Lingote de tungsteno",
+  "item.oreprogression.platinum_ingot": "Lingote de platino",
+  "item.oreprogression.quality_gold_ingot": "Lingote de oro de calidad",
+  "item.oreprogression.crimtane_ingot": "Lingote carmesí",
+  "item.oreprogression.demonite_ingot": "Lingote endemoniado",
+  "item.oreprogression.hellstone_ingot": "Lingote de piedra Infernal",
+
+  "block.oreprogression.tin_ore": "Mena de estaño",
+  "block.oreprogression.deepslate_tin_ore": "Mena de estaño de pizarra profunda",
+  "block.oreprogression.tin_bricks": "Ladrillos de estaño",
+
+  "block.oreprogression.quality_copper_ore": "Mena de cobre de calidad",
+  "block.oreprogression.quality_deepslate_copper_ore": "Mena de cobre de calidad de pizarra profunda",
+  "block.oreprogression.quality_copper_bricks": "Ladrillos de cobre de calidad",
+
+  "block.oreprogression.lead_ore": "Mena de plomo",
+  "block.oreprogression.deepslate_lead_ore": "Mena de plomo de pizarra profunda",
+  "block.oreprogression.lead_bricks": "Ladrillos de plomo",
+
+  "block.oreprogression.quality_iron_ore": "Mena de hierro de calidad",
+  "block.oreprogression.quality_deepslate_iron_ore": "Mena de hierro de calidad de pizarra profunda",
+  "block.oreprogression.quality_iron_bricks": "Ladrillos de hierro de calidad",
+
+  "block.oreprogression.silver_ore": "Mena de plata",
+  "block.oreprogression.deepslate_silver_ore": "Mena de plata de pizarra profunda",
+  "block.oreprogression.silver_bricks": "Ladrillos de plata",
+
+  "block.oreprogression.tungsten_ore": "Mena de tungsteno",
+  "block.oreprogression.deepslate_tungsten_ore": "Mena de tungsteno de pizarra profunda",
+  "block.oreprogression.tungsten_bricks": "Ladrillos de tungsteno",
+
+  "block.oreprogression.platinum_ore": "Mena de platino",
+  "block.oreprogression.deepslate_platinum_ore": "Mena de platino de pizarra profunda",
+  "block.oreprogression.platinum_bricks": "Ladrillos de platino",
+
+  "block.oreprogression.quality_gold_ore": "Mena de oro de calidad",
+  "block.oreprogression.quality_deepslate_gold_ore": "Mena de oro de calidad de pizarra profunda",
+  "block.oreprogression.quality_gold_bricks": "Ladrillos de oro de calidad",
+
+  "block.oreprogression.crimtane_ore": "Mena carmesí",
+  "block.oreprogression.deepslate_crimtane_ore": "Mena carmesí de pizarra profunda",
+  "block.oreprogression.crimtane_bricks": "Ladrillos carmesí",
+
+  "block.oreprogression.demonite_ore": "Mena endemoniada",
+  "block.oreprogression.deepslate_demonite_ore": "Mena endemoniada de pizarra profunda",
+  "block.oreprogression.demonite_bricks": "Ladrillos endemoniados",
+
+  "block.oreprogression.netherrack_hellstone_ore": "Mena de piedra infernal",
+  "block.oreprogression.hellstone_bricks": "Ladrillos infernales",
+
+  "itemGroup.oreprogressiontab": "Ore Progression"
+
+}

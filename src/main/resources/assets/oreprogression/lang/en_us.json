@@ -1,6 +1,16 @@
 {
 
   "item.oreprogression.tin_ingot": "Tin Ingot",
+  "item.oreprogression.quality_copper_ingot": "Quality Copper Ingot",
+  "item.oreprogression.lead_ingot": "Lead Ingot",
+  "item.oreprogression.quality_iron_ingot": "Quality Iron Ingot",
+  "item.oreprogression.silver_ingot": "Silver Ingot",
+  "item.oreprogression.tungsten_ingot": "Tungsten Ingot",
+  "item.oreprogression.platinum_ingot": "Platinum Ingot",
+  "item.oreprogression.quality_gold_ingot": "Quality Gold Ingot",
+  "item.oreprogression.crimtane_ingot": "Crimtane Ingot",
+  "item.oreprogression.demonite_ingot": "Demonite Ingot",
+  "item.oreprogression.hellstone_ingot": "Hellstone Ingot",
 
   "block.oreprogression.tin_ore": "Tin Ore",
   "block.oreprogression.deepslate_tin_ore": "Deepslate Tin Ore",
