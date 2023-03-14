@@ -1,0 +1,8 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "front": "oreprogression:block/lead_block_front",
+    "side": "oreprogression:block/lead_block_side",
+    "top": "oreprogression:block/lead_block_top"
+  }
+}

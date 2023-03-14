@@ -1,0 +1,8 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "front": "oreprogression:block/demonite_block_front",
+    "side": "oreprogression:block/demonite_block_side",
+    "top": "oreprogression:block/demonite_block_top"
+  }
+}

@@ -26,12 +26,12 @@ public class ModCreativeModeTab {
         }
     };
 
-    /*public static final CreativeModeTab OREPROGRESSION_BLOCKS_TAB = new CreativeModeTab("oreprogressiontab_blocks") {
+    public static final CreativeModeTab OREPROGRESSION_BLOCKS_TAB = new CreativeModeTab("oreprogressiontab_blocks") {
         @Override
         public ItemStack makeIcon() {
             return new ItemStack(ModBlocks.TIN_BLOCK.get());
         }
-    };*/
+    };
 
     public static final CreativeModeTab OREPROGRESSION_BRICKS_TAB = new CreativeModeTab("oreprogressiontab_bricks") {
         @Override

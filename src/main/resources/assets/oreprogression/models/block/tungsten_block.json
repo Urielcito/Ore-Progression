@@ -1,0 +1,8 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "front": "oreprogression:block/tungsten_block_front",
+    "side": "oreprogression:block/tungsten_block_side",
+    "top": "oreprogression:block/tungsten_block_top"
+  }
+}

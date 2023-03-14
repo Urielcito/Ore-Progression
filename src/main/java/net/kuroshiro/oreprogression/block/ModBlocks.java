@@ -125,6 +125,40 @@ public class ModBlocks {
             ()->new Block(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
                     .strength(7f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BRICKS_TAB);
 
+    public static final RegistryObject<Block> TIN_BLOCK = registerBlock("tin_block",
+            ()->new Block(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
+                    .strength(7f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BLOCKS_TAB);
+    public static final RegistryObject<Block> QUALITY_COPPER_BLOCK = registerBlock("quality_copper_block",
+            ()->new Block(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
+                    .strength(7f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BLOCKS_TAB);
+    public static final RegistryObject<Block> LEAD_BLOCK = registerBlock("lead_block",
+            ()->new Block(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
+                    .strength(7f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BLOCKS_TAB);
+    public static final RegistryObject<Block> QUALITY_IRON_BLOCK = registerBlock("quality_iron_block",
+            ()->new Block(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
+                    .strength(7f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BLOCKS_TAB);
+    public static final RegistryObject<Block> SILVER_BLOCK = registerBlock("silver_block",
+            ()->new Block(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
+                    .strength(7f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BLOCKS_TAB);
+    public static final RegistryObject<Block> TUNGSTEN_BLOCK = registerBlock("tungsten_block",
+            ()->new Block(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
+                    .strength(7f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BLOCKS_TAB);
+    public static final RegistryObject<Block> PLATINUM_BLOCK = registerBlock("platinum_block",
+            ()->new Block(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
+                    .strength(7f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BLOCKS_TAB);
+    public static final RegistryObject<Block> QUALITY_GOLD_BLOCK = registerBlock("quality_gold_block",
+            ()->new Block(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
+                    .strength(7f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BLOCKS_TAB);
+    public static final RegistryObject<Block> CRIMTANE_BLOCK = registerBlock("crimtane_block",
+            ()->new Block(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
+                    .strength(7f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BLOCKS_TAB);
+    public static final RegistryObject<Block> DEMONITE_BLOCK = registerBlock("demonite_block",
+            ()->new Block(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
+                    .strength(7f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BLOCKS_TAB);
+    public static final RegistryObject<Block> HELLSTONE_BLOCK = registerBlock("hellstone_block",
+            ()->new Block(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
+                    .strength(7f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BLOCKS_TAB);
+
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T> block, CreativeModeTab tab){
         RegistryObject<T> toReturn = BLOCKS.register(name, block);
         registerBlockItem(name, toReturn, tab);
