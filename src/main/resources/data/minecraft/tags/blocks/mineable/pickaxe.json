@@ -1,27 +1,59 @@
 {
   "replace": false,
-  "values":[
+  "values": [
     "oreprogression:tin_ore",
     "oreprogression:deepslate_tin_ore",
+    "oreprogression:tin_block",
+    "oreprogression:tin_bricks",
+
     "oreprogression:quality_copper_ore",
-    "oreprogression:deepslate_quality_copper_ore",
+    "oreprogression:quality_deepslate_copper_ore",
+    "oreprogression:quality_copper_block",
+    "oreprogression:quality_copper_bricks",
+
     "oreprogression:lead_ore",
     "oreprogression:deepslate_lead_ore",
+    "oreprogression:lead_block",
+    "oreprogression:lead_bricks",
+
     "oreprogression:quality_iron_ore",
-    "oreprogression:deepslate_quality_iron_ore",
+    "oreprogression:quality_deepslate_iron_ore",
+    "oreprogression:quality_iron_block",
+    "oreprogression:quality_iron_bricks",
+
     "oreprogression:silver_ore",
     "oreprogression:deepslate_silver_ore",
+    "oreprogression:silver_block",
+    "oreprogression:silver_bricks",
+
     "oreprogression:tungsten_ore",
     "oreprogression:deepslate_tungsten_ore",
+    "oreprogression:tungsten_block",
+    "oreprogression:tungsten_bricks",
+
+    "oreprogression:quality_gold_ore",
+    "oreprogression:quality_deepslate_gold_ore",
+    "oreprogression:quality_gold_block",
+    "oreprogression:quality_gold_bricks",
+
     "oreprogression:platinum_ore",
     "oreprogression:deepslate_platinum_ore",
-    "oreprogression:quality_gold_ore",
-    "oreprogression:deepslate_quality_gold_ore",
+    "oreprogression:platinum_block",
+    "oreprogression:platinum_bricks",
+
     "oreprogression:crimtane_ore",
     "oreprogression:deepslate_crimtane_ore",
+    "oreprogression:crimtane_block",
+    "oreprogression:crimtane_bricks",
+
     "oreprogression:demonite_ore",
     "oreprogression:deepslate_demonite_ore",
-    "oreprogression:tin_ore",
-    "oreprogression:netherrack_hellstone_ore"
+    "oreprogression:demonite_block",
+    "oreprogression:demonite_bricks",
+
+    "oreprogression:netherrack_hellstone_ore",
+    "oreprogression:hellstone_block",
+    "oreprogression:hellstone_bricks"
+
   ]
 }

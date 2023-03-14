@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "#": {
-      "item": "minecraft:tin_block"
+      "item": "oreprogression:tin_block"
     }
   },
   "pattern": [
@@ -11,6 +11,6 @@
   ],
   "result": {
     "count": 4,
-    "item": "minecraft:tin_bricks"
+    "item": "oreprogression:tin_bricks"
   }
 }

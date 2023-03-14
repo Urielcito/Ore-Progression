@@ -24,7 +24,7 @@
                   }
                 }
               ],
-              "name": "oreprogression:tin_ore"
+              "name": "oreprogression:lead_ore"
             },
             {
               "type": "minecraft:item",
@@ -38,7 +38,7 @@
                   "function": "minecraft:explosion_decay"
                 }
               ],
-              "name": "oreprogression:raw_tin"
+              "name": "oreprogression:raw_lead"
             }
           ]
         }

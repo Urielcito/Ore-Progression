@@ -24,7 +24,7 @@ public class ModBlocks {
                     .strength(2f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_ORES_TAB);
     public static final RegistryObject<Block> DEEPSLATE_TIN_ORE = registerBlock("deepslate_tin_ore",
             ()->new Block(BlockBehaviour.Properties.of(Material.STONE)
-                    .strength(2f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_ORES_TAB); //estaño
+                    .strength(3f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_ORES_TAB); //estaño
     public static final RegistryObject<Block> TIN_BRICKS = registerBlock("tin_bricks",
             ()->new Block(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
                     .strength(2f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BRICKS_TAB);
@@ -37,100 +37,100 @@ public class ModBlocks {
                     .strength(3f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_ORES_TAB); //cobre de calidad
     public static final RegistryObject<Block> QUALITY_COPPER_BRICKS = registerBlock("quality_copper_bricks",
             ()->new Block(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
-                    .strength(3f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BRICKS_TAB);
+                    .strength(2f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BRICKS_TAB);
 
     public static final RegistryObject<Block> LEAD_ORE = registerBlock("lead_ore",
             ()->new Block(BlockBehaviour.Properties.of(Material.STONE)
-                    .strength(2f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_ORES_TAB);
+                    .strength(3f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_ORES_TAB);
     public static final RegistryObject<Block> DEEPSLATE_LEAD_ORE = registerBlock("deepslate_lead_ore",
             ()->new Block(BlockBehaviour.Properties.of(Material.STONE)
-                    .strength(3f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_ORES_TAB); //plomo
+                    .strength(4f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_ORES_TAB); //plomo
     public static final RegistryObject<Block> LEAD_BRICKS = registerBlock("lead_bricks",
             ()->new Block(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
                     .strength(3f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BRICKS_TAB);
 
     public static final RegistryObject<Block> QUALITY_IRON_ORE = registerBlock("quality_iron_ore",
             ()->new Block(BlockBehaviour.Properties.of(Material.STONE)
-                    .strength(2f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_ORES_TAB);
+                    .strength(3f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_ORES_TAB);
     public static final RegistryObject<Block> QUALITY_DEEPSLATE_IRON_ORE = registerBlock("quality_deepslate_iron_ore",
             ()->new Block(BlockBehaviour.Properties.of(Material.STONE)
-                    .strength(3f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_ORES_TAB); //hierro de calidad
+                    .strength(4f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_ORES_TAB); //hierro de calidad
     public static final RegistryObject<Block> QUALITY_IRON_BRICKS = registerBlock("quality_iron_bricks",
             ()->new Block(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
                     .strength(3f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BRICKS_TAB);
 
     public static final RegistryObject<Block> SILVER_ORE = registerBlock("silver_ore",
             ()->new Block(BlockBehaviour.Properties.of(Material.STONE)
-                    .strength(2f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_ORES_TAB);
+                    .strength(4f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_ORES_TAB);
     public static final RegistryObject<Block> DEEPSLATE_SILVER_ORE = registerBlock("deepslate_silver_ore",
             ()->new Block(BlockBehaviour.Properties.of(Material.STONE)
-                    .strength(3f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_ORES_TAB); //plata
+                    .strength(5f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_ORES_TAB); //plata
     public static final RegistryObject<Block> SILVER_BRICKS = registerBlock("silver_bricks",
             ()->new Block(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
-                    .strength(3f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BRICKS_TAB);
+                    .strength(4f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BRICKS_TAB);
 
     public static final RegistryObject<Block> TUNGSTEN_ORE = registerBlock("tungsten_ore",
             ()->new Block(BlockBehaviour.Properties.of(Material.STONE)
-                    .strength(2f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_ORES_TAB);
+                    .strength(4f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_ORES_TAB);
     public static final RegistryObject<Block> DEEPSLATE_TUNGSTEN_ORE = registerBlock("deepslate_tungsten_ore",
             ()->new Block(BlockBehaviour.Properties.of(Material.STONE)
-                    .strength(3f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_ORES_TAB); //tungsteno
+                    .strength(5f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_ORES_TAB); //tungsteno
     public static final RegistryObject<Block> TUNGSTEN_BRICKS = registerBlock("tungsten_bricks",
             ()->new Block(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
-                    .strength(3f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BRICKS_TAB);
+                    .strength(4f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BRICKS_TAB);
 
     public static final RegistryObject<Block> PLATINUM_ORE = registerBlock("platinum_ore",
             ()->new Block(BlockBehaviour.Properties.of(Material.STONE)
-                    .strength(2f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_ORES_TAB);
+                    .strength(5f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_ORES_TAB);
     public static final RegistryObject<Block> DEEPSLATE_PLATINUM_ORE = registerBlock("deepslate_platinum_ore",
             ()->new Block(BlockBehaviour.Properties.of(Material.STONE)
-                    .strength(3f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_ORES_TAB); //platino
+                    .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_ORES_TAB); //platino
     public static final RegistryObject<Block> PLATINUM_BRICKS = registerBlock("platinum_bricks",
             ()->new Block(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
-                    .strength(3f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BRICKS_TAB);
+                    .strength(5f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BRICKS_TAB);
 
     public static final RegistryObject<Block> QUALITY_GOLD_ORE = registerBlock("quality_gold_ore",
             ()->new Block(BlockBehaviour.Properties.of(Material.STONE)
-                    .strength(2f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_ORES_TAB);
+                    .strength(5f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_ORES_TAB);
     public static final RegistryObject<Block> QUALITY_DEEPSLATE_GOLD_ORE = registerBlock("quality_deepslate_gold_ore",
             ()->new Block(BlockBehaviour.Properties.of(Material.STONE)
-                    .strength(3f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_ORES_TAB); //oro
+                    .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_ORES_TAB); //oro
     public static final RegistryObject<Block> QUALITY_GOLD_BRICKS = registerBlock("quality_gold_bricks",
             ()->new Block(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
-                    .strength(3f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BRICKS_TAB);
+                    .strength(5f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BRICKS_TAB);
 
     public static final RegistryObject<Block> CRIMTANE_ORE = registerBlock("crimtane_ore",
             ()->new Block(BlockBehaviour.Properties.of(Material.STONE)
-                    .strength(2f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_ORES_TAB);
+                    .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_ORES_TAB);
     public static final RegistryObject<Block> DEEPSLATE_CRIMTANE_ORE = registerBlock("deepslate_crimtane_ore",
             ()->new Block(BlockBehaviour.Properties.of(Material.STONE)
-                    .strength(3f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_ORES_TAB); //mineral carmesi
+                    .strength(7f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_ORES_TAB); //mineral carmesi
     public static final RegistryObject<Block> CRIMTANE_BRICKS = registerBlock("crimtane_bricks",
             ()->new Block(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
-                    .strength(3f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BRICKS_TAB);
+                    .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BRICKS_TAB);
 
     public static final RegistryObject<Block> DEMONITE_ORE = registerBlock("demonite_ore",
             ()->new Block(BlockBehaviour.Properties.of(Material.STONE)
-                    .strength(2f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_ORES_TAB);
+                    .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_ORES_TAB);
     public static final RegistryObject<Block> DEEPSLATE_DEMONITE_ORE = registerBlock("deepslate_demonite_ore",
             ()->new Block(BlockBehaviour.Properties.of(Material.STONE)
-                    .strength(3f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_ORES_TAB); //mineral endemoniado
+                    .strength(7f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_ORES_TAB); //mineral endemoniado
     public static final RegistryObject<Block> DEMONITE_BRICKS = registerBlock("demonite_bricks",
             ()->new Block(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
-                    .strength(3f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BRICKS_TAB);
+                    .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BRICKS_TAB);
     public static final RegistryObject<Block> NETHERRACK_HELLSTONE_ORE = registerBlock("netherrack_hellstone_ore",
             ()->new Block(BlockBehaviour.Properties.of(Material.STONE)
-                    .strength(3f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_ORES_TAB); //piedra fundida
+                    .strength(7f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_ORES_TAB); //piedra fundida
     public static final RegistryObject<Block> HELLSTONE_BRICKS = registerBlock("hellstone_bricks",
             ()->new Block(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
-                    .strength(3f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BRICKS_TAB);
+                    .strength(7f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BRICKS_TAB);
 
     public static final RegistryObject<Block> TIN_BLOCK = registerBlock("tin_block",
             ()->new Block(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
-                    .strength(3f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BLOCKS_TAB);
+                    .strength(2f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BLOCKS_TAB);
     public static final RegistryObject<Block> QUALITY_COPPER_BLOCK = registerBlock("quality_copper_block",
             ()->new Block(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
-                    .strength(3f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BLOCKS_TAB);
+                    .strength(2f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BLOCKS_TAB);
     public static final RegistryObject<Block> LEAD_BLOCK = registerBlock("lead_block",
             ()->new Block(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
                     .strength(3f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BLOCKS_TAB);
@@ -139,25 +139,25 @@ public class ModBlocks {
                     .strength(3f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BLOCKS_TAB);
     public static final RegistryObject<Block> SILVER_BLOCK = registerBlock("silver_block",
             ()->new Block(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
-                    .strength(3f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BLOCKS_TAB);
+                    .strength(4f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BLOCKS_TAB);
     public static final RegistryObject<Block> TUNGSTEN_BLOCK = registerBlock("tungsten_block",
             ()->new Block(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
-                    .strength(3f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BLOCKS_TAB);
+                    .strength(4f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BLOCKS_TAB);
     public static final RegistryObject<Block> PLATINUM_BLOCK = registerBlock("platinum_block",
             ()->new Block(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
-                    .strength(3f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BLOCKS_TAB);
+                    .strength(5f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BLOCKS_TAB);
     public static final RegistryObject<Block> QUALITY_GOLD_BLOCK = registerBlock("quality_gold_block",
             ()->new Block(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
-                    .strength(3f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BLOCKS_TAB);
+                    .strength(5f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BLOCKS_TAB);
     public static final RegistryObject<Block> CRIMTANE_BLOCK = registerBlock("crimtane_block",
             ()->new Block(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
-                    .strength(3f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BLOCKS_TAB);
+                    .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BLOCKS_TAB);
     public static final RegistryObject<Block> DEMONITE_BLOCK = registerBlock("demonite_block",
             ()->new Block(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
-                    .strength(3f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BLOCKS_TAB);
+                    .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BLOCKS_TAB);
     public static final RegistryObject<Block> HELLSTONE_BLOCK = registerBlock("hellstone_block",
             ()->new Block(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
-                    .strength(3f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BLOCKS_TAB);
+                    .strength(7f).requiresCorrectToolForDrops()), ModCreativeModeTab.OREPROGRESSION_BLOCKS_TAB);
 
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T> block, CreativeModeTab tab){
         RegistryObject<T> toReturn = BLOCKS.register(name, block);
