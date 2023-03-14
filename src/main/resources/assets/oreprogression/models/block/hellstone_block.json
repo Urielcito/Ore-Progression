@@ -1,8 +1,12 @@
 {
-  "parent": "block/orientable",
+  "parent": "block/cube",
   "textures": {
-    "front": "oreprogression:block/hellstone_block_front",
-    "side": "oreprogression:block/hellstone_block_side",
-    "top": "oreprogression:block/hellstone_block_top"
+    "particle": "oreprogression:block/hellstone_block_side",
+    "up": "oreprogression:block/hellstone_block_top",
+    "down": "oreprogression:block/hellstone_block_top",
+    "north": "oreprogression:block/hellstone_block_front",
+    "south": "oreprogression:block/hellstone_block_front",
+    "west": "oreprogression:block/hellstone_block_side",
+    "east": "oreprogression:block/hellstone_block_side"
   }
 }

@@ -1,8 +1,12 @@
 {
-  "parent": "block/orientable",
+  "parent": "block/cube",
   "textures": {
-    "front": "oreprogression:block/lead_block_front",
-    "side": "oreprogression:block/lead_block_side",
-    "top": "oreprogression:block/lead_block_top"
+    "particle": "oreprogression:block/lead_block_side",
+    "up": "oreprogression:block/lead_block_top",
+    "down": "oreprogression:block/lead_block_top",
+    "north": "oreprogression:block/lead_block_front",
+    "south": "oreprogression:block/lead_block_front",
+    "west": "oreprogression:block/lead_block_side",
+    "east": "oreprogression:block/lead_block_side"
   }
 }

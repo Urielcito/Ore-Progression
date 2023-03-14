@@ -1,8 +1,12 @@
 {
-  "parent": "block/orientable",
+  "parent": "block/cube",
   "textures": {
-    "front": "oreprogression:block/tungsten_block_front",
-    "side": "oreprogression:block/tungsten_block_side",
-    "top": "oreprogression:block/tungsten_block_top"
+    "particle": "oreprogression:block/tungsten_block_side",
+    "down": "oreprogression:block/tungsten_block_top",
+    "up": "oreprogression:block/tungsten_block_top",
+    "north": "oreprogression:block/tungsten_block_front",
+    "east": "oreprogression:block/tungsten_block_side",
+    "south": "oreprogression:block/tungsten_block_front",
+    "west": "oreprogression:block/tungsten_block_side"
   }
 }

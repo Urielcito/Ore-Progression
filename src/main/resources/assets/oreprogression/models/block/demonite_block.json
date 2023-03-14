@@ -1,8 +1,12 @@
 {
-  "parent": "block/orientable",
+  "parent": "block/cube",
   "textures": {
-    "front": "oreprogression:block/demonite_block_front",
-    "side": "oreprogression:block/demonite_block_side",
-    "top": "oreprogression:block/demonite_block_top"
+    "particle": "oreprogression:block/demonite_block_side",
+    "up": "oreprogression:block/demonite_block_top",
+    "down": "oreprogression:block/demonite_block_top",
+    "north": "oreprogression:block/demonite_block_front",
+    "south": "oreprogression:block/demonite_block_front",
+    "west": "oreprogression:block/demonite_block_side",
+    "east": "oreprogression:block/demonite_block_side"
   }
 }
