@@ -11,6 +11,7 @@
   "item.oreprogression.crimtane_ingot": "Lingote carmesí",
   "item.oreprogression.demonite_ingot": "Lingote endemoniado",
   "item.oreprogression.hellstone_ingot": "Lingote de piedra Infernal",
+  
   "item.oreprogression.raw_tin": "Mineral de estaño",
   "item.oreprogression.raw_quality_copper": "Mineral de cobre de calidad",
   "item.oreprogression.raw_lead": "Mineral de plomo",
@@ -22,6 +23,18 @@
   "item.oreprogression.raw_crimtane": "Mineral carmesí",
   "item.oreprogression.raw_demonite": "Mineral endemoniado",
   "item.oreprogression.raw_hellstone": "Piedra infernal",
+
+  "item.oreprogression.tin_nugget": "Pepita de estaño",
+  "item.oreprogression.quality_copper_nugget": "Pepita de cobre de calidad",
+  "item.oreprogression.lead_nugget": "Pepita de plomo",
+  "item.oreprogression.quality_iron_nugget": "Pepita de hierro de calidad",
+  "item.oreprogression.silver_nugget": "Pepita de plata",
+  "item.oreprogression.tungsten_nugget": "Pepita de tungsteno",
+  "item.oreprogression.platinum_nugget": "Pepita de platino",
+  "item.oreprogression.quality_gold_nugget": "Pepita de oro de calidad",
+  "item.oreprogression.crimtane_nugget": "Pepita carmesí",
+  "item.oreprogression.demonite_nugget": "Pepita endemoniado",
+  "item.oreprogression.hellstone_nugget": "Fragmento infernal",
 
   "block.oreprogression.tin_ore": "Mena de estaño",
   "block.oreprogression.deepslate_tin_ore": "Mena de estaño de pizarra profunda",

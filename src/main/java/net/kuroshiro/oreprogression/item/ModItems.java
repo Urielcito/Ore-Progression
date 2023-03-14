@@ -35,6 +35,27 @@ public class ModItems {
     public static final RegistryObject<Item> RAW_HELLSTONE = ITEMS.register("raw_hellstone", () -> new Item(new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_RAW_TAB)));
 
 
+    public static final RegistryObject<Item> TIN_NUGGET = ITEMS.register("tin_nugget", () -> new Item(new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_INGOTS_TAB)));
+    public static final RegistryObject<Item> QUALITY_COPPER_NUGGET = ITEMS.register("quality_copper_nugget", () -> new Item(new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_INGOTS_TAB)));
+    public static final RegistryObject<Item> LEAD_NUGGET = ITEMS.register("lead_nugget", () -> new Item(new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_INGOTS_TAB)));
+
+    public static final RegistryObject<Item> QUALITY_IRON_NUGGET = ITEMS.register("quality_iron_nugget", () -> new Item(new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_INGOTS_TAB)));
+
+    public static final RegistryObject<Item> SILVER_NUGGET = ITEMS.register("silver_nugget", () -> new Item(new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_INGOTS_TAB)));
+
+    public static final RegistryObject<Item> TUNGSTEN_NUGGET = ITEMS.register("tungsten_nugget", () -> new Item(new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_INGOTS_TAB)));
+
+    public static final RegistryObject<Item> PLATINUM_NUGGET = ITEMS.register("platinum_nugget", () -> new Item(new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_INGOTS_TAB)));
+
+    public static final RegistryObject<Item> QUALITY_GOLD_NUGGET = ITEMS.register("quality_gold_nugget", () -> new Item(new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_INGOTS_TAB)));
+
+    public static final RegistryObject<Item> CRIMTANE_NUGGET = ITEMS.register("crimtane_nugget", () -> new Item(new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_INGOTS_TAB)));
+
+    public static final RegistryObject<Item> DEMONITE_NUGGET = ITEMS.register("demonite_nugget", () -> new Item(new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_INGOTS_TAB)));
+
+    public static final RegistryObject<Item> HELLSTONE_NUGGET = ITEMS.register("hellstone_nugget", () -> new Item(new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_INGOTS_TAB)));
+
+
     //TO-DO: ITEMS DE CADA ORE, Y SUS RESPECTIVOS LINGOTES!!
     public static void register(IEventBus eventBus){
         ITEMS.register(eventBus);
