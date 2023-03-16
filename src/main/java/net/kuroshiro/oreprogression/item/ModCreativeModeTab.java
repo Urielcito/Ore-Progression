@@ -40,10 +40,10 @@ public class ModCreativeModeTab {
         }
     };
 
-    /*public static final CreativeModeTab OREPROGRESSION_WEAPONS_TAB = new CreativeModeTab("oreprogressiontab_weapons") {
+    public static final CreativeModeTab OREPROGRESSION_WEAPONS_TAB = new CreativeModeTab("oreprogressiontab_weapons") {
         @Override
         public ItemStack makeIcon() {
-            return new ItemStack(ModItems.TIN_SWORD.get());
+            return new ItemStack(ModItems.TIN_BROADSWORD.get());
         }
     };
 
@@ -53,7 +53,7 @@ public class ModCreativeModeTab {
             return new ItemStack(ModItems.TIN_PICKAXE.get());
         }
     };
-
+/*
     public static final CreativeModeTab OREPROGRESSION_ARMOR_TAB = new CreativeModeTab("oreprogressiontab_armor") {
         @Override
         public ItemStack makeIcon() {

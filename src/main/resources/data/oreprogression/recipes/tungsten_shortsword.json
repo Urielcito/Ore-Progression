@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "oreprogression:tungsten_ingot"
+    }
+  },
+  "pattern": [
+    "   ",
+    " X ",
+    "#  "
+  ],
+  "result": {
+    "item": "oreprogression:tungsten_shortsword"
+  }
+}

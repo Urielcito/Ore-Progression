@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "oreprogression:crimtane_ore",
+    "oreprogression:deepslate_crimtane_ore",
+    "oreprogression:crimtane_block",
+    "oreprogression:crimtane_bricks",
+
+    "oreprogression:demonite_ore",
+    "oreprogression:deepslate_demonite_ore",
+    "oreprogression:demonite_block",
+    "oreprogression:demonite_bricks"
+  ]
+}

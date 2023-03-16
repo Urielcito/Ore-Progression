@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "oreprogression:item/quality_copper_pickaxe"
+  }
+}

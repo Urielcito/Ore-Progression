@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "oreprogression:netherrack_hellstone_ore",
+    "oreprogression:hellstone_block",
+    "oreprogression:hellstone_bricks"
+
+  ]
+}

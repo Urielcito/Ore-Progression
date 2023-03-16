@@ -3,10 +3,13 @@ package net.kuroshiro.oreprogression;
 import com.mojang.logging.LogUtils;
 import net.kuroshiro.oreprogression.block.ModBlocks;
 import net.kuroshiro.oreprogression.item.ModItems;
+import net.kuroshiro.oreprogression.world.feature.ModConfiguredFeatures;
+import net.kuroshiro.oreprogression.world.feature.ModPlacedFeatures;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod;
+import net.minecraftforge.fml.config.ModConfig;
 import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
@@ -24,6 +27,9 @@ public class OreProgression
 
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
+
+        ModConfiguredFeatures.register(modEventBus);
+        ModPlacedFeatures.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 

@@ -9,16 +9,6 @@
     "oreprogression:quality_copper_ore",
     "oreprogression:quality_deepslate_copper_ore",
     "oreprogression:quality_copper_block",
-    "oreprogression:quality_copper_bricks",
-
-    "oreprogression:lead_ore",
-    "oreprogression:deepslate_lead_ore",
-    "oreprogression:lead_block",
-    "oreprogression:lead_bricks",
-
-    "oreprogression:quality_iron_ore",
-    "oreprogression:quality_deepslate_iron_ore",
-    "oreprogression:quality_iron_block",
-    "oreprogression:quality_iron_bricks"
+    "oreprogression:quality_copper_bricks"
   ]
 }

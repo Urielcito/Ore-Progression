@@ -1,0 +1,35 @@
+{
+  "replace": false,
+  "values": [
+    "oreprogression:lead_ore",
+    "oreprogression:deepslate_lead_ore",
+    "oreprogression:lead_block",
+    "oreprogression:lead_bricks",
+
+    "oreprogression:quality_iron_ore",
+    "oreprogression:quality_deepslate_iron_ore",
+    "oreprogression:quality_iron_block",
+    "oreprogression:quality_iron_bricks",
+
+    "oreprogression:silver_ore",
+    "oreprogression:deepslate_silver_ore",
+    "oreprogression:silver_block",
+    "oreprogression:silver_bricks",
+
+    "oreprogression:tungsten_ore",
+    "oreprogression:deepslate_tungsten_ore",
+    "oreprogression:tungsten_block",
+    "oreprogression:tungsten_bricks",
+
+    "oreprogression:quality_gold_ore",
+    "oreprogression:quality_deepslate_gold_ore",
+    "oreprogression:quality_gold_block",
+    "oreprogression:quality_gold_bricks",
+
+    "oreprogression:platinum_ore",
+    "oreprogression:deepslate_platinum_ore",
+    "oreprogression:platinum_block",
+    "oreprogression:platinum_bricks"
+
+  ]
+}
