@@ -1,8 +1,7 @@
 package net.kuroshiro.oreprogression.item;
 
-import net.minecraft.world.item.Item;
-import net.minecraft.world.item.PickaxeItem;
-import net.minecraft.world.item.SwordItem;
+import net.minecraft.world.entity.EquipmentSlot;
+import net.minecraft.world.item.*;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
@@ -56,12 +55,31 @@ public class ModItems {
     public static final RegistryObject<Item> DEMONITE_NUGGET = ITEMS.register("demonite_nugget", () -> new Item(new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_INGOTS_TAB)));
 
     public static final RegistryObject<Item> HELLSTONE_NUGGET = ITEMS.register("hellstone_nugget", () -> new Item(new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_INGOTS_TAB)));
+
+    //ARMADURA
+    public static final RegistryObject<Item> TIN_HELMET = ITEMS.register("tin_helmet", () -> new ArmorItem(ModArmorMaterials.TIN, EquipmentSlot.HEAD,
+            new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_ARMOR_TAB).stacksTo(1)));
+    public static final RegistryObject<Item> TIN_CHAINMAIL = ITEMS.register("tin_chainmail", () -> new ArmorItem(ModArmorMaterials.TIN, EquipmentSlot.CHEST,
+            new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_ARMOR_TAB).stacksTo(1)));
+    public static final RegistryObject<Item> TIN_LEGGINGS = ITEMS.register("tin_leggings", () -> new ArmorItem(ModArmorMaterials.TIN, EquipmentSlot.LEGS,
+            new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_ARMOR_TAB).stacksTo(1)));
+    public static final RegistryObject<Item> TIN_GREAVES = ITEMS.register("tin_greaves", () -> new ArmorItem(ModArmorMaterials.TIN, EquipmentSlot.FEET,
+            new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_ARMOR_TAB).stacksTo(1)));
+
+    public static final RegistryObject<Item> QUALITY_COPPER_HELMET = ITEMS.register("quality_copper_helmet", () -> new ArmorItem(ModArmorMaterials.QUALITY_COPPER, EquipmentSlot.HEAD,
+            new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_ARMOR_TAB).stacksTo(1)));
+    public static final RegistryObject<Item> QUALITY_COPPER_CHAINMAIL = ITEMS.register("quality_copper_chainmail", () -> new ArmorItem(ModArmorMaterials.QUALITY_COPPER, EquipmentSlot.CHEST,
+            new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_ARMOR_TAB).stacksTo(1)));
+    public static final RegistryObject<Item> QUALITY_COPPER_LEGGINGS = ITEMS.register("quality_copper_leggings", () -> new ArmorItem(ModArmorMaterials.QUALITY_COPPER, EquipmentSlot.LEGS,
+            new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_ARMOR_TAB).stacksTo(1)));
+    public static final RegistryObject<Item> QUALITY_COPPER_GREAVES = ITEMS.register("quality_copper_greaves", () -> new ArmorItem(ModArmorMaterials.QUALITY_COPPER, EquipmentSlot.FEET,
+            new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_ARMOR_TAB).stacksTo(1)));
+
     //ARMAS
     public static final RegistryObject<Item> TIN_BROADSWORD = ITEMS.register("tin_broadsword", () -> new SwordItem(ModToolTiers.TIN, 4-1, -1f,
             new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_WEAPONS_TAB).stacksTo(1)));
     public static final RegistryObject<Item> TIN_SHORTSWORD = ITEMS.register("tin_shortsword", () -> new SwordItem(ModToolTiers.TIN, 3-1, 0.61f,
             new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_WEAPONS_TAB).stacksTo(1)));
-
     public static final RegistryObject<Item> QUALITY_COPPER_BROADSWORD = ITEMS.register("quality_copper_broadsword", () -> new SwordItem(ModToolTiers.QUALITY_COPPER, 4-1, 1f,
             new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_WEAPONS_TAB).stacksTo(1)));
     public static final RegistryObject<Item> QUALITY_COPPER_SHORTSWORD = ITEMS.register("quality_copper_shortsword", () -> new SwordItem(ModToolTiers.QUALITY_COPPER, 2-1, 1f,

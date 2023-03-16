@@ -53,11 +53,11 @@ public class ModCreativeModeTab {
             return new ItemStack(ModItems.TIN_PICKAXE.get());
         }
     };
-/*
+
     public static final CreativeModeTab OREPROGRESSION_ARMOR_TAB = new CreativeModeTab("oreprogressiontab_armor") {
         @Override
         public ItemStack makeIcon() {
-            return new ItemStack(ModItems.TIN_CHESTPLATE.get());
+            return new ItemStack(ModItems.TIN_CHAINMAIL.get());
         }
-    };*/
+    };
 }

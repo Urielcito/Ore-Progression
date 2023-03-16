@@ -36,6 +36,17 @@
   "item.oreprogression.demonite_nugget": "Pepita endemoniado",
   "item.oreprogression.hellstone_nugget": "Fragmento infernal",
 
+  "item.oreprogression.tin_helmet": "Casco de estaño",
+  "item.oreprogression.tin_chainmail": "Cota de malla de estaño",
+  "item.oreprogression.tin_leggings": "Grebas de estaño",
+  "item.oreprogression.tin_greaves": "Botas de estaño",
+
+  "item.oreprogression.quality_copper_helmet": "Casco de cobre de calidad",
+  "item.oreprogression.quality_copper_helmet": "Cota de malla de cobre de calidad",
+  "item.oreprogression.quality_copper_helmet": "Grebas de cobre de calidad",
+  "item.oreprogression.quality_copper_helmet": "Botas de cobre de calidad",
+
+
   "item.oreprogression.tin_pickaxe": "Pico de estaño",
   "item.oreprogression.quality_copper_pickaxe": "Pico de cobre de calidad",
   "item.oreprogression.lead_pickaxe": "Pico de plomo",
