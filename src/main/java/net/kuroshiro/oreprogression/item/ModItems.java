@@ -75,6 +75,87 @@ public class ModItems {
     public static final RegistryObject<Item> QUALITY_COPPER_GREAVES = ITEMS.register("quality_copper_greaves", () -> new ArmorItem(ModArmorMaterials.QUALITY_COPPER, EquipmentSlot.FEET,
             new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_ARMOR_TAB).stacksTo(1)));
 
+    public static final RegistryObject<Item> LEAD_HELMET = ITEMS.register("lead_helmet", () -> new ArmorItem(ModArmorMaterials.LEAD, EquipmentSlot.HEAD,
+            new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_ARMOR_TAB).stacksTo(1)));
+    public static final RegistryObject<Item> LEAD_CHAINMAIL = ITEMS.register("lead_chainmail", () -> new ArmorItem(ModArmorMaterials.LEAD, EquipmentSlot.CHEST,
+            new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_ARMOR_TAB).stacksTo(1)));
+    public static final RegistryObject<Item> LEAD_LEGGINGS = ITEMS.register("lead_leggings", () -> new ArmorItem(ModArmorMaterials.LEAD, EquipmentSlot.LEGS,
+            new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_ARMOR_TAB).stacksTo(1)));
+    public static final RegistryObject<Item> LEAD_GREAVES = ITEMS.register("lead_greaves", () -> new ArmorItem(ModArmorMaterials.LEAD, EquipmentSlot.FEET,
+            new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_ARMOR_TAB).stacksTo(1)));
+
+    public static final RegistryObject<Item> QUALITY_IRON_HELMET = ITEMS.register("quality_iron_helmet", () -> new ArmorItem(ModArmorMaterials.QUALITY_IRON, EquipmentSlot.HEAD,
+            new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_ARMOR_TAB).stacksTo(1)));
+    public static final RegistryObject<Item> QUALITY_IRON_CHAINMAIL = ITEMS.register("quality_iron_chainmail", () -> new ArmorItem(ModArmorMaterials.QUALITY_IRON, EquipmentSlot.CHEST,
+            new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_ARMOR_TAB).stacksTo(1)));
+    public static final RegistryObject<Item> QUALITY_IRON_LEGGINGS = ITEMS.register("quality_iron_leggings", () -> new ArmorItem(ModArmorMaterials.QUALITY_IRON, EquipmentSlot.LEGS,
+            new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_ARMOR_TAB).stacksTo(1)));
+    public static final RegistryObject<Item> QUALITY_IRON_GREAVES = ITEMS.register("quality_iron_greaves", () -> new ArmorItem(ModArmorMaterials.QUALITY_IRON, EquipmentSlot.FEET,
+            new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_ARMOR_TAB).stacksTo(1)));
+
+    public static final RegistryObject<Item> SILVER_HELMET = ITEMS.register("silver_helmet", () -> new ArmorItem(ModArmorMaterials.SILVER, EquipmentSlot.HEAD,
+            new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_ARMOR_TAB).stacksTo(1)));
+    public static final RegistryObject<Item> SILVER_CHAINMAIL = ITEMS.register("silver_chainmail", () -> new ArmorItem(ModArmorMaterials.SILVER, EquipmentSlot.CHEST,
+            new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_ARMOR_TAB).stacksTo(1)));
+    public static final RegistryObject<Item> SILVER_LEGGINGS = ITEMS.register("silver_leggings", () -> new ArmorItem(ModArmorMaterials.SILVER, EquipmentSlot.LEGS,
+            new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_ARMOR_TAB).stacksTo(1)));
+    public static final RegistryObject<Item> SILVER_GREAVES = ITEMS.register("silver_greaves", () -> new ArmorItem(ModArmorMaterials.SILVER, EquipmentSlot.FEET,
+            new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_ARMOR_TAB).stacksTo(1)));
+
+    public static final RegistryObject<Item> TUNGSTEN_HELMET = ITEMS.register("tungsten_helmet", () -> new ArmorItem(ModArmorMaterials.TUNGSTEN, EquipmentSlot.HEAD,
+            new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_ARMOR_TAB).stacksTo(1)));
+    public static final RegistryObject<Item> TUNGSTEN_CHAINMAIL = ITEMS.register("tungsten_chainmail", () -> new ArmorItem(ModArmorMaterials.TUNGSTEN, EquipmentSlot.CHEST,
+            new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_ARMOR_TAB).stacksTo(1)));
+    public static final RegistryObject<Item> TUNGSTEN_LEGGINGS = ITEMS.register("tungsten_leggings", () -> new ArmorItem(ModArmorMaterials.TUNGSTEN, EquipmentSlot.LEGS,
+            new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_ARMOR_TAB).stacksTo(1)));
+    public static final RegistryObject<Item> TUNGSTEN_GREAVES = ITEMS.register("tungsten_greaves", () -> new ArmorItem(ModArmorMaterials.TUNGSTEN, EquipmentSlot.FEET,
+            new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_ARMOR_TAB).stacksTo(1)));
+
+    public static final RegistryObject<Item> PLATINUM_HELMET = ITEMS.register("platinum_helmet", () -> new ArmorItem(ModArmorMaterials.PLATINUM, EquipmentSlot.HEAD,
+            new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_ARMOR_TAB).stacksTo(1)));
+    public static final RegistryObject<Item> PLATINUM_CHAINMAIL = ITEMS.register("platinum_chainmail", () -> new ArmorItem(ModArmorMaterials.PLATINUM, EquipmentSlot.CHEST,
+            new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_ARMOR_TAB).stacksTo(1)));
+    public static final RegistryObject<Item> PLATINUM_LEGGINGS = ITEMS.register("platinum_leggings", () -> new ArmorItem(ModArmorMaterials.PLATINUM, EquipmentSlot.LEGS,
+            new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_ARMOR_TAB).stacksTo(1)));
+    public static final RegistryObject<Item> PLATINUM_GREAVES = ITEMS.register("platinum_greaves", () -> new ArmorItem(ModArmorMaterials.PLATINUM, EquipmentSlot.FEET,
+            new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_ARMOR_TAB).stacksTo(1)));
+
+    public static final RegistryObject<Item> QUALITY_GOLD_HELMET = ITEMS.register("quality_gold_helmet", () -> new ArmorItem(ModArmorMaterials.QUALITY_GOLD, EquipmentSlot.HEAD,
+            new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_ARMOR_TAB).stacksTo(1)));
+    public static final RegistryObject<Item> QUALITY_GOLD_CHAINMAIL = ITEMS.register("quality_gold_chainmail", () -> new ArmorItem(ModArmorMaterials.QUALITY_GOLD, EquipmentSlot.CHEST,
+            new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_ARMOR_TAB).stacksTo(1)));
+    public static final RegistryObject<Item> QUALITY_GOLD_LEGGINGS = ITEMS.register("quality_gold_leggings", () -> new ArmorItem(ModArmorMaterials.QUALITY_GOLD, EquipmentSlot.LEGS,
+            new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_ARMOR_TAB).stacksTo(1)));
+    public static final RegistryObject<Item> QUALITY_GOLD_GREAVES = ITEMS.register("quality_gold_greaves", () -> new ArmorItem(ModArmorMaterials.QUALITY_GOLD, EquipmentSlot.FEET,
+            new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_ARMOR_TAB).stacksTo(1)));
+
+    public static final RegistryObject<Item> CRIMSON_HELMET = ITEMS.register("crimson_helmet", () -> new ArmorItem(ModArmorMaterials.CRIMTANE, EquipmentSlot.HEAD,
+            new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_ARMOR_TAB).stacksTo(1)));
+    public static final RegistryObject<Item> CRIMSON_SCALEMAIL = ITEMS.register("crimson_scalemail", () -> new ArmorItem(ModArmorMaterials.CRIMTANE, EquipmentSlot.CHEST,
+            new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_ARMOR_TAB).stacksTo(1)));
+    public static final RegistryObject<Item> CRIMSON_LEGGINGS = ITEMS.register("crimson_leggings", () -> new ArmorItem(ModArmorMaterials.CRIMTANE, EquipmentSlot.LEGS,
+            new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_ARMOR_TAB).stacksTo(1)));
+    public static final RegistryObject<Item> CRIMSON_GREAVES = ITEMS.register("crimson_greaves", () -> new ArmorItem(ModArmorMaterials.CRIMTANE, EquipmentSlot.FEET,
+            new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_ARMOR_TAB).stacksTo(1)));
+
+    public static final RegistryObject<Item> SHADOW_HELMET = ITEMS.register("shadow_helmet", () -> new ArmorItem(ModArmorMaterials.DEMONITE, EquipmentSlot.HEAD,
+            new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_ARMOR_TAB).stacksTo(1)));
+    public static final RegistryObject<Item> SHADOW_SCALEMAIL = ITEMS.register("shadow_scalemail", () -> new ArmorItem(ModArmorMaterials.DEMONITE, EquipmentSlot.CHEST,
+            new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_ARMOR_TAB).stacksTo(1)));
+    public static final RegistryObject<Item> SHADOW_LEGGINGS = ITEMS.register("shadow_leggings", () -> new ArmorItem(ModArmorMaterials.DEMONITE, EquipmentSlot.LEGS,
+            new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_ARMOR_TAB).stacksTo(1)));
+    public static final RegistryObject<Item> SHADOW_GREAVES = ITEMS.register("shadow_greaves", () -> new ArmorItem(ModArmorMaterials.DEMONITE, EquipmentSlot.FEET,
+            new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_ARMOR_TAB).stacksTo(1)));
+
+    public static final RegistryObject<Item> MOLTEN_HELMET = ITEMS.register("molten_helmet", () -> new ArmorItem(ModArmorMaterials.HELLSTONE, EquipmentSlot.HEAD,
+            new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_ARMOR_TAB).stacksTo(1)));
+    public static final RegistryObject<Item> MOLTEN_BREASTPLATE = ITEMS.register("molten_breastplate", () -> new ArmorItem(ModArmorMaterials.HELLSTONE, EquipmentSlot.CHEST,
+            new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_ARMOR_TAB).stacksTo(1)));
+    public static final RegistryObject<Item> MOLTEN_LEGGINGS = ITEMS.register("molten_leggings", () -> new ArmorItem(ModArmorMaterials.HELLSTONE, EquipmentSlot.LEGS,
+            new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_ARMOR_TAB).stacksTo(1)));
+    public static final RegistryObject<Item> MOLTEN_GREAVES = ITEMS.register("molten_greaves", () -> new ArmorItem(ModArmorMaterials.HELLSTONE, EquipmentSlot.FEET,
+            new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_ARMOR_TAB).stacksTo(1)));
+
     //ARMAS
     public static final RegistryObject<Item> TIN_BROADSWORD = ITEMS.register("tin_broadsword", () -> new SwordItem(ModToolTiers.TIN, 4-1, -1f,
             new Item.Properties().tab(ModCreativeModeTab.OREPROGRESSION_WEAPONS_TAB).stacksTo(1)));

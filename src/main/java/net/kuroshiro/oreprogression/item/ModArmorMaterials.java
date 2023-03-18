@@ -43,14 +43,14 @@ public enum ModArmorMaterials implements ArmorMaterial {
         return Ingredient.of(ModItems.QUALITY_GOLD_INGOT.get());
     }),
 
-    CRIMTANE("crimtane", 25, new int[]{5, 8, 7, 5}, 35, SoundEvents.ARMOR_EQUIP_IRON, 4.0F, 0.15F, () -> {
+    CRIMTANE("crimson", 25, new int[]{5, 8, 7, 5}, 35, SoundEvents.ARMOR_EQUIP_IRON, 4.0F, 0.15F, () -> {
         return Ingredient.of(ModItems.CRIMTANE_INGOT.get());
     }),
-    DEMONITE("demonite", 26, new int[]{5, 7, 8, 5}, 35, SoundEvents.ARMOR_EQUIP_IRON, 4.0F, 0.15F, () -> {
+    DEMONITE("shadow", 26, new int[]{5, 7, 8, 5}, 35, SoundEvents.ARMOR_EQUIP_IRON, 4.0F, 0.15F, () -> {
         return Ingredient.of(ModItems.DEMONITE_INGOT.get());
     }),
 
-    HELLSTONE("hellstone", 40, new int[]{7, 9, 9, 7}, 50, SoundEvents.ARMOR_EQUIP_IRON, 10.0F, 0.2F, () -> {
+    HELLSTONE("molten", 40, new int[]{7, 9, 9, 7}, 50, SoundEvents.ARMOR_EQUIP_IRON, 10.0F, 0.2F, () -> {
         return Ingredient.of(ModItems.HELLSTONE_INGOT.get());
     });
 

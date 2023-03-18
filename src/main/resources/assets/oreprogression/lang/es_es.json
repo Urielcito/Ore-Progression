@@ -42,9 +42,56 @@
   "item.oreprogression.tin_greaves": "Botas de estaño",
 
   "item.oreprogression.quality_copper_helmet": "Casco de cobre de calidad",
-  "item.oreprogression.quality_copper_helmet": "Cota de malla de cobre de calidad",
-  "item.oreprogression.quality_copper_helmet": "Grebas de cobre de calidad",
-  "item.oreprogression.quality_copper_helmet": "Botas de cobre de calidad",
+  "item.oreprogression.quality_copper_chainmail": "Cota de malla de cobre de calidad",
+  "item.oreprogression.quality_copper_leggings": "Grebas de cobre de calidad",
+  "item.oreprogression.quality_copper_greaves": "Botas de cobre de calidad",
+
+  "item.oreprogression.lead_helmet": "Casco de plomo",
+  "item.oreprogression.lead_chainmail": "Cota de malla de plomo",
+  "item.oreprogression.lead_leggings": "Grebas de plomo",
+  "item.oreprogression.lead_greaves": "Botas de plomo",
+
+  "item.oreprogression.quality_iron_helmet": "Casco de hierro de calidad",
+  "item.oreprogression.quality_iron_chainmail": "Cota de malla de hierro de calidad",
+  "item.oreprogression.quality_iron_leggings": "Grebas de hierro de calidad",
+  "item.oreprogression.quality_iron_greaves": "Botas de hierro de calidad",
+
+  "item.oreprogression.silver_helmet": "Casco de plata",
+  "item.oreprogression.silver_chainmail": "Cota de malla de plata",
+  "item.oreprogression.silver_leggings": "Grebas de plata",
+  "item.oreprogression.silver_greaves": "Botas de plata",
+
+  "item.oreprogression.tungsten_helmet": "Casco de tungsteno",
+  "item.oreprogression.tungsten_chainmail": "Cota de malla de tungsteno",
+  "item.oreprogression.tungsten_leggings": "Grebas de tungsteno",
+  "item.oreprogression.tungsten_greaves": "Botas de tungsteno",
+
+  "item.oreprogression.platinum_helmet": "Casco de platino",
+  "item.oreprogression.platinum_chainmail": "Cota de malla de platino",
+  "item.oreprogression.platinum_leggings": "Grebas de platino",
+  "item.oreprogression.platinum_greaves": "Botas de platino",
+
+  "item.oreprogression.quality_gold_helmet": "Casco de oro de calidad",
+  "item.oreprogression.quality_gold_chainmail": "Cota de malla de oro de calidad",
+  "item.oreprogression.quality_gold_leggings": "Grebas de oro de calidad",
+  "item.oreprogression.quality_gold_greaves": "Botas de oro de calidad",
+
+  "item.oreprogression.crimson_helmet": "Casco carmesí",
+  "item.oreprogression.crimson_scalemail": "Cota de escamas carmesí",
+  "item.oreprogression.crimson_leggings": "Grebas carmesí",
+  "item.oreprogression.crimson_greaves": "Botas carmesí",
+
+  "item.oreprogression.shadow_helmet": "Casco de las sombras",
+  "item.oreprogression.shadow_chainmail": "Cota de escamas de las sombras",
+  "item.oreprogression.shadow_leggings": "Grebas de las sombras",
+  "item.oreprogression.shadow_greaves": "Botas de las sombras",
+
+  "item.oreprogression.molten_helmet": "Casco fundido",
+  "item.oreprogression.molten_breastplate": "Coraza fundida",
+  "item.oreprogression.molten_leggings": "Grebas fundidas",
+  "item.oreprogression.molten_greaves": "Botas fundidas",
+
+
 
 
   "item.oreprogression.tin_pickaxe": "Pico de estaño",
